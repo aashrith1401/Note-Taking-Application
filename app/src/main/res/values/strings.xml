@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cut" />
+    <string name="copy" />
+    <string name="paste" />
+    <string name="enter_a_note" />
+    <string name="save" />
+    <string name="enter_your_note">Enter your note</string>
+    <string name="save1">Save</string>
+    <string name="cut1">Cut</string>
+    <string name="copy2">Copy</string>
+    <string name="paste3">Paste</string>
+    <string name="username">username</string>
+    <string name="enter_password">enter password</string>
+    <string name="login">login</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password1">enter password</string>
+    <string name="signup">signup</string>
+    <string name="back">back</string>
+    <string name="login1">Login</string>
+    <string name="sign_up1">Sign up</string>
+</resources>
